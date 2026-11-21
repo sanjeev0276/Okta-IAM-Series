@@ -19,7 +19,7 @@ Conceptual HR Source (simulated) → AD `allenlab.local` → Okta `*.okta.com - 
 <a id="lab-execution-status"></a>
 | Lab       | Focus Area                                | Status    | Jump to Lab                                                                  |
 |-----------|-------------------------------------------|-----------|------------------------------------------------------------------------------|
-| **Lab 1** | Tenant Setup and Core Identity Foundation   | Completed | [Go to Lab 1](#lab-1-okta-tenant-setup--configuration)                       |
+| **Lab 1** | Tenant Setup and Core Identity Foundation   | Completed | [Go to Lab 1 >>](#lab-1-okta-tenant-setup--configuration)                       |
 | **Lab 2** | Active Directory Integration and DelAuth    | Completed | [Go to Lab 2](#lab-2-active-directory-integration--delegated-authentication) |
 | **Lab 3** | RBAC Design and Access Sprawl Investigation | Completed | [Go to Lab 3](#lab-3-rbac-design--access-sprawl-investigation)               |
 | **Lab 4** | SAML 2.0 Application Integration          | Completed | [Go to Lab 4](#lab-4-saml-20-application-integration)                        |
