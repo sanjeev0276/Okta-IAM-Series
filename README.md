@@ -62,7 +62,7 @@ Implemented an end-to-end IAM environment using Okta, Active Directory, SAML fed
 
 <details>
 
- <summary><img src="https://img.shields.io/badge/📸_Click_here_to_view_Lab_1_Diagrams_and_Screenshots-0969da?style=for-the-badge" alt="Click here to view Lab 1 Diagrams and Screenshots"></summary>
+### [📸 Click here to view Lab 1 Diagrams and Screenshots >>](#lab-1-okta-tenant-setup-and-configuration)
 
 <br>
 
