@@ -61,7 +61,8 @@ Implemented an end-to-end IAM environment using Okta, Active Directory, SAML fed
 * Isolated Global Session Policies from application-level Authentication Policies and Authenticator Enrollment Policies to maintain granular access control.
 
 <details>
-<summary>📸 <b><span style="color:#0969da;">Click here to view Lab 1 Diagrams and Screenshots >></span></b></summary>
+<details>
+<summary><img src="https://img.shields.io/badge/📸_Click_here_to_view_Lab_1_Diagrams_and_Screenshots-0969da?style=for-the-badge" alt="Click here to view Lab 1 Diagrams and Screenshots"></summary>
 
 <br>
 
