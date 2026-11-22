@@ -59,7 +59,9 @@ Implemented an end-to-end IAM environment using Okta, Active Directory, SAML fed
 **Key Learnings and Takeaways:**
 * Established core tenant infrastructure including branding, directory schema, custom profile attributes, and group structures prior to app assignments.
 * Isolated Global Session Policies from application-level Authentication Policies and Authenticator Enrollment Policies to maintain granular access control.
+<details>
 <summary>📸 <b>Click here to view Lab 1 Diagrams and Screenshots >></b></summary>
+
 <br>
 
 #### Architecture Diagram
