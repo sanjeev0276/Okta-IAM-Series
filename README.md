@@ -285,6 +285,19 @@ AD and Okta state changes do not, by themselves, prove downstream application de
 This hands-on lab series was adapted and built upon the foundational framework provided by [RyanKennon/Okta-Lab-Series](https://github.com/RyanKennon/Okta-Lab-Series). 
 
 
+### What I adapted:
+- Lab structure and overall flow
+
+### What I built / added myself:
+- Added Overall Architectural diagram, and each lab architecture diagram.
+- Added PowerShell automation scripts.
+- Added screenshots and validation steps.
+- All configurations, testing, and documentation in this repo.
+  
+Original work remains credited to its author. This repo is my hands-on implementation and extension of that framework.
+
+
+
 
 
 
