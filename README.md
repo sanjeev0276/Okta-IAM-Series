@@ -39,17 +39,23 @@ Implemented an end-to-end IAM environment using Okta, Active Directory, SAML fed
 * **Users Managed:** 20+ AD users, 6 Groups, 3 SAML Apps, 22 MFA policies
 
 ---
-
 ## Key Skills Demonstrated
+- Okta Administration & Identity Management
+- Active Directory Integration & Delegated Authentication
+- RBAC & Access Governance
+- SAML 2.0 Federation & Single Sign-On (SSO)
+- Adaptive MFA & JML Lifecycle Automation
 
-* Okta Tenant Administration & Profile Editor
-* Active Directory (AD) Integration & Delegated Authentication
-* Role-Based Access Control (RBAC) Design
-* SAML 2.0 SSO Federation & Attribute Mapping
-* Adaptive Risk-Based Authentication & Network Zones
-* Step-Up Authentication & Passwordless Policies
-* User Lifecycle Management (JML) & Access Sprawl Audit
+## Technologies Used
 
+| Category | Technologies |
+|-----------|-------------|
+| IAM Platform | Okta Workforce Identity Cloud |
+| Directory Services | Active Directory (AD) |
+| Authentication | SSO, MFA, Delegated Authentication |
+| Identity Protocols | SAML 2.0 |
+| Access Management | RBAC, Group-Based Access Control |
+| Automation | PowerShell, CSV Batch Processing |
 
 ## Detailed Lab Implementations and Visual Proof
 
