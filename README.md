@@ -28,15 +28,12 @@ Conceptual HR Source (simulated) → AD `allenlab.local` → Okta `*.okta.com - 
 
 ---
 ## Executive Summary and Business Impact
-
-Implemented an end-to-end IAM environment using Okta, Active Directory, SAML federation, Adaptive MFA, RBAC, and automated Joiner-Mover-Leaver lifecycle processes across six hands-on labs.
-
-* **Tenant Foundation (Lab 1):** Core Okta tenant `*.okta.com - redacted`, custom profile attributes, Groups RBAC, Global Session + Auth + Enrollment Policies.
-* **Access Governance (Lab 3+4):** Group-based provisioning, access-sprawl audit via System Log `application.user_membership.add`, least-privilege via group app assignments for Slack, Workspace, SharePoint.
-* **Lifecycle Automation (Lab 2+6):** AD `allenlab.local` as source with DelAuth + Full/Incremental Import via AD Agent, JML automation with PowerShell + CSV batch `jml-batch.csv`, Unassigned → Confirm → Active/Deactivated.
-* **Centralized Auth (Lab 4):** SAML 2.0 federation with attribute mapping across Slack, Google Workspace, SharePoint.
-* **Zero Trust (Lab 5):** Network Zones Trusted/Untrusted IP, Adaptive Sign-On + Step-Up High Assurance for SharePoint, Passwordless Okta Verify Push with Number Matching.
-* **Users Managed:** 20+ AD users, 6 Groups, 3 SAML Apps, 22 MFA policies
+Implemented an end-to-end IAM environment using Okta, Active Directory, SAML SSO, Adaptive MFA, RBAC, and automated Joiner-Mover-Leaver (JML) processes across six hands-on labs.
+- **Identity Foundation:** Configured an Okta tenant with custom attributes, group-based RBAC, and authentication policies.
+- **Identity Lifecycle:** Integrated Active Directory with Delegated Authentication, provisioning/deprovisioning, and JML automation using PowerShell.
+- **Access Governance:** Enforced least-privilege access through RBAC, group-based application assignments, and access-sprawl auditing.
+- **Federation & Security:** Implemented SAML 2.0 SSO, Adaptive MFA, Step-Up Authentication, and Zero Trust controls.
+- **Environment Scale:** Managed 20+ AD users, 6 groups, 3 SAML applications, and 22 MFA policies.
 
 ---
 ## Key Skills Demonstrated
