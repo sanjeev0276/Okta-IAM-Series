@@ -48,7 +48,7 @@ Implemented an end-to-end IAM environment using Okta, Active Directory, SAML SSO
 | Category | Technologies |
 |-----------|-------------|
 | IAM Platform | Okta Workforce Identity Cloud |
-| Directory Services | Active Directory (AD), Azure VM |
+| Directory Services | Active Directory (AD), Azure VM, Windows Server 2025 |
 | Authentication | SSO, MFA, Delegated Authentication |
 | Identity Protocols | SAML 2.0 |
 | Access Management | RBAC, Group-Based Access Control |
